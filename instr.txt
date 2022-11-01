@@ -13,7 +13,7 @@ cd ..
 
 -- Install moveit_msgs 0.11.2
 
-git clone git clone https://github.com/ros-planning/moveit_msgs.git
+git clone https://github.com/ros-planning/moveit_msgs.git
 cd moveit_msgs
 git checkout 612d7d5bb1047f65acd495a7e632da78a621545d
 cd ..
