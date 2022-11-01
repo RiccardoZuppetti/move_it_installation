@@ -35,11 +35,3 @@ cd ..
 -- Install rosparam-shortcuts (latest)
 
 apt-get install ros-noetic-rosparam-shortcuts
-
--- Build the workspace
-cd ..
-catkin_make 
-
-... It will take a while ....
-
-Once finished, everything should work as shown in the Experimental Robotics course!
